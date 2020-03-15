@@ -1,0 +1,37 @@
+@font-face { font-family: kalpurush; src: url('fonts/kalpurush.ttf'); } 
+      body {
+         font-family: kalpurush;
+         font-size: 14px;
+      }
+
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.container{
+	width:595px;
+	height: 842px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.innerfirst{
+	display: inline-block;
+}
+.second{
+	width:595px;
+	height: 110px;
+}
+.left{
+	float: left;
+	margin-right: 20px;
+}
+
+.what{
+	margin-left: 30px;
+	float: right;
+}
+.middle{
+	height: 230px;
+	width:550px;
+}
